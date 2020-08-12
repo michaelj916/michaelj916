@@ -2,7 +2,7 @@
 
 ## I'm an undergratuate student pursuing *computer science*, focusing on the **web** :computer: 
 - ✔️ I'm always learning new technologies !
-- 🖱️ I have interests in web development(front- and back-end), machine learning, AI, quantum computing, and WebGL
+- 🖱️ I have interests in web development (front- and back-end), machine learning, AI, quantum computing, and WebGL
 - 🔍 2020 Goals: finish more projects and diversify my portfolio
 - 🎸 Fun Fact: I love philosophy, music, math, & psychology 📚 and I play guitar / write music
 
@@ -35,7 +35,7 @@
 
 
 [website]: https://michaelj916.github.io/portfolio
-[twitter]: https://twitter.com/notjakeewlad
+[twitter]: https://twitter.com/notjakeewald
 [instagram]: https://instagram.com/dontcallmenowiminbed
 
 
