@@ -11,6 +11,21 @@
 [<img align="left" width="24px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 [<img align="left" width="24px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 
+<br />
+
+### Languages and Tools:
+[<img align="left" width="26px" src="https://simpleicons.org/icons/html5.svg" />]
+[<img align="left" width="24px" src="https://simpleicons.org/icons/css3.svg" />]
+[<img align="left" width="24px" src="https://simpleicons.org/icons/javascript.svg" />]
+[<img align="left" width="24px" src="https://simpleicons.org/icons/react.svg" />]
+[<img align="left" width="24px" src="https://simpleicons.org/icons/node-dot-js.svg" />]
+[<img align="left" width="24px" src="https://simpleicons.org/icons/git.svg" />]
+[<img align="left" width="24px" src="https://simpleicons.org/icons/visualstudiocode.svg" />]
+[<img align="left" width="24px" src="https://simpleicons.org/icons/mysql.svg" />]
+[<img align="left" width="24px" src="https://simpleicons.org/icons/graphql.svg" />]
+[<img align="left" width="24px" src="https://simpleicons.org/icons/sass.svg" />]
+
+
 
 [website]: https://michaelj916.github.io/portfolio
 [twitter]: https://twitter.com/notjakeewlad
