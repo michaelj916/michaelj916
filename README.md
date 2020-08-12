@@ -1,4 +1,4 @@
-# Hi there, I'm Michael - [~~website~~] - :part_alternation_mark:
+# Hi there, I'm Michael - [~~website~~](https://michaelj916.github.io/portfolio) - :part_alternation_mark:
 
 ## I'm an undergratuate student pursuing *computer science*, focusing on the **web** :computer: 
 - ✔️ I'm always learning new technologies !
