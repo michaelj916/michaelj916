@@ -29,9 +29,9 @@
 
 ---
 
-<img align="left" alt="michaelj916's stats" src="https://github-readme-stats.vercel.app/api?username=michaelj916&show_icons=true&hide_border=true" />
+<img align="left" alt="michaelj916's stats" src="https://github-readme-stats.vercel.app/api?username=michaelj916&show_icons=true&hide_border=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelj916&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelj916&layout=compact&theme=tokyonight)
 
 
 [website]: https://michaelj916.github.io/portfolio
