@@ -1,4 +1,4 @@
-# Hi there, I'm Michael - [~~website~~](https://michaelj916.github.io/portfolio) - :part_alternation_mark:
+# Hi there, I'm Michael - [~~website~~](https://michaelj916.github.io/my-react-portfolio) - :part_alternation_mark:
 
 ## I'm an undergratuate student pursuing *computer science*, focusing on the **web** :computer: 
 - ✔️ I'm always learning new technologies !
@@ -36,7 +36,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelj916&layout=compact&theme=tokyonight)
 
 
-[website]: https://michaelj916.github.io/portfolio
+[website]: https://michaelj916.github.io/my-react-portfolio
 [twitter]: https://twitter.com/notjakeewald
 [instagram]: https://instagram.com/dontcallmenowiminbed
 
