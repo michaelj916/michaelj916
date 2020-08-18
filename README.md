@@ -31,6 +31,12 @@
 
 ------
 
+### Spotify Playing :notes:
+
+<img src="https://novatorem-git-master.michaelj916.vercel.app/app/spotify-playing" alt="spotify-current-song" width="350">
+
+------
+
 <img align="left" alt="michaelj916's stats" src="https://github-readme-stats.vercel.app/api?username=michaelj916&show_icons=true&hide_border=true&theme=tokyonight" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelj916&layout=compact&theme=tokyonight)
