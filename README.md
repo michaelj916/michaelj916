@@ -33,7 +33,7 @@
 
 ### Spotify Currently Playing :notes:
 
-[<img src="https://novatorem.michaelj916.vercel.app/api/spotify" alt="michaelj916 Spotify Playing" width="350" />](https://open.spotify.com/user/21frylhdybrfjbkyk7hn7ycdy)
+[<img src="https://novatorem.michaelj916.vercel.app/api/spotify-playing" alt="michaelj916 Spotify Playing" width="350" />](https://open.spotify.com/user/21frylhdybrfjbkyk7hn7ycdy)
 
 ------
 
