@@ -31,11 +31,13 @@
 
 ------
 
+<!-- 
 ### Spotify Currently Playing :notes:
 
-[<img src="https://novatorem.michaelj916.vercel.app/api/spotify-playing" alt="michaelj916 Spotify Playing" width="350" />](https://open.spotify.com/user/21frylhdybrfjbkyk7hn7ycdy)
+[<img src="https://michaelj916-now-playing.vercel.app/api/spotify-playing" alt="michaelj916 Spotify Playing" width="350" />](https://open.spotify.com/user/21frylhdybrfjbkyk7hn7ycdy)
 
 ------
+ -->
 
 <img align="left" alt="michaelj916's stats" src="https://github-readme-stats.vercel.app/api?username=michaelj916&show_icons=true&hide_border=true&theme=tokyonight" />
 
