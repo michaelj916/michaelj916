@@ -33,7 +33,7 @@
 
 ### Spotify Playing :notes:
 
-<img src="https://novatorem-git-master.michaelj916.vercel.app/app/spotify-playing" alt="spotify-current-song" width="350">
+[![Spotify](https://novatorem-git-master.michaelj916.vercel.app/api/spotify)](https://open.spotify.com/user/21frylhdybrfjbkyk7hn7ycdy)
 
 ------
 
