@@ -1,15 +1,15 @@
-# Hi there, I'm Michael - [~~website~~](https://michaelj916.github.io/my-react-portfolio) - :part_alternation_mark:
+# Hi there, I'm Michael - [~~portfolio~~](https://michaelj916.github.io/my-react-portfolio) - :part_alternation_mark:
 
 ## I'm an undergratuate student pursuing *computer science*, focusing on the **web** :computer: 
 - ✔️ I'm always learning new technologies !
-- 🖱️ I have interests in web development (front- and back-end), machine learning, AI, quantum computing, and WebGL
+- 🖱️ I have interests in web development (front- and back-end), machine learning, AI, quantum computing, WebGL, & GAN
 - 🔍 2020 Goals: finish more projects and diversify my portfolio
-- 🎸 Fun Fact: I love philosophy, music, math, & psychology 📚 and I play guitar / write music
+- 🎸 Fun Fact: I love philosophy, music, math, & reading 📚 and I play guitar / write music
 
 ### Connect with me: 
-[<img align="left" width="24px" src="https://github.com/iconic/open-iconic/blob/master/svg/globe.svg" />][website]
-[<img align="left" width="24px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
-[<img align="left" width="24px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/814/814513.svg" />][website]
+[<img align="left" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />][instagram]
 
 <br />
 
