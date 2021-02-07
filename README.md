@@ -1,9 +1,9 @@
 # Hi there, I'm Michael - [~~portfolio~~](https://michaelj916.github.io/my-react-portfolio) - :part_alternation_mark:
 
-## I'm an undergratuate student pursuing *computer science*, focusing on the **web** :computer: 
+## I'm an undergratuate student pursuing *computer science* :computer: 
 - ✔️ I'm always learning new technologies !
-- 🖱️ I have interests in web development (front- and back-end), machine learning, AI, quantum computing, WebGL, & GAN
-- 🔍 2020 Goals: finish more projects and diversify my portfolio
+- 🖱️ I have interests in web development (front- and back-end), machine learning, AI, cryptography, & quantum computing
+- 🔍 2021 Goals: improve my understandings of software development and data structures, as well as finishing more projects and writing more code!
 - 🎸 Fun Fact: I love philosophy, music, math, & reading 📚 and I play guitar / write music
 
 ### Connect with me: 
