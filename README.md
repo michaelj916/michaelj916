@@ -2,9 +2,9 @@
 
 ## I'm an undergratuate student pursuing *computer science* :computer: 
 - ✔️ I'm always learning new technologies !
-- 🖱️ I have interests in web development (front- and back-end), machine learning, AI, cryptography, & quantum computing
+- 🖱️ I have interests in web development (front- and back-end), software engineering, machine learning, AI, cryptography, & quantum computing
 - 🔍 2021 Goals: improve my understandings of software development and data structures, as well as finishing more projects and writing more code!
-- 🎸 Fun Fact: I love philosophy, music, math, & reading 📚 and I play guitar / write music
+- 🎸 Fun Fact: I love philosophy, music, math, & reading 📚 && I play guitar / write music
 
 ### Connect with me: 
 [<img align="left" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/814/814513.svg" />][website]
