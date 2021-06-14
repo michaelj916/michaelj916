@@ -1,4 +1,4 @@
-# Hi there, I'm Michael    -   [my portfolio](https://michaelj916.github.io/my-react-portfolio)
+# Hi there, I'm Michael    -   [my portfolio](https://michaelj916.github.io/portfolio)
 ## I'm an undergratuate student studying __computer science__ :computer: 
 - ✔️ I am always learning new technologies, but I strive to master fundamentals 
 - 🔍 2021 Goals: improve my skills as a programmer and learn more about software development and data structures
