@@ -4,5 +4,5 @@
 - 🔍 2021 Goals: improve my skills as a programmer and learn more about software development and data structures
 - 🎸 Fun Fact: I love philosophy, music, math, reading 📚 & I play guitar
 <br />
-<img align="left" alt="michaelj916's stats" src="https://github-readme-stats.vercel.app/api?username=michaelj916&show_icons=true&hide_border=true&theme=tokyonight" />
-<img align="right" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelj916&layout=compact&theme=tokyonight" />
+<img align="left" height="200px" width="auto" alt="michaelj916's stats" src="https://github-readme-stats.vercel.app/api?username=michaelj916&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="right" height="200px" width="auto" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelj916&layout=compact&theme=tokyonight" />
