@@ -1,9 +1,10 @@
 <h3 align="center">Hi there, I'm Michael | <a href="https://michaelj916.github.io/portfolio">portfolio</a></h3>
-<h4 align="center">I'm an undergratuate student studying __computer science__ :computer:</h4>
-- ✔️ I am always learning new technologies, but I strive to master fundamentals 
-- 🔍 2021 Goals: improve my skills as a programmer and learn more about software development and data structures
-- 🎸 Fun Fact: I love philosophy, music, math, reading 📚 & I play guitar
-
+<h4 align="center">I'm an undergratuate student studying computer science and engineering :computer:</h4>
+<ul>
+<li>✔️ I am always learning new technologies, but I strive to master fundamentals</li>
+<li>🔍 2021 Goals: improve my skills as a programmer and learn more about software development and data structures</li>
+<li>🎸 Fun Fact: I love philosophy, music, math, reading 📚 & I play guitar</li>
+</ul>
 
 
 <div style="padding: 15px; align: center;">
