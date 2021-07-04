@@ -8,6 +8,6 @@
 
 
 <div style="padding: 15px; align: center;">
-<img align="left" height="100px" width="auto" alt="michaelj916's stats" src="https://github-readme-stats.vercel.app/api?username=michaelj916&show_icons=true&hide_border=true&theme=tokyonight" />
-<img align="right" height="100px" width="auto" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelj916&layout=compact&theme=tokyonight" />
+<img align="center" height="140px" width="auto" alt="michaelj916's stats" src="https://github-readme-stats.vercel.app/api?username=michaelj916&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="center" height="140px" width="auto" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelj916&layout=compact&theme=tokyonight" />
 </div>
